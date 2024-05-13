@@ -1,10 +1,9 @@
 # spotify-swipe-based-recommendation-system
 
-### Phase 1: Research and Planning
+### Phase 1: Research and EDA
 - **Objectives:**
-  - Conduct market research to understand existing music recommendation systems.
   - Gather data on user preferences and behavior patterns in music applications.
-  - Define project requirements and technical specifications.
+  - Define project requirements and technical specifications + EDA.
 - **Deliverables:**
   - Project plan document.
   - Technical requirements and architecture.
